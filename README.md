@@ -1,11 +1,8 @@
 
-#Simulacion del problema de lectores/escritores
+# Simulacion del problema de lectores/escritores
   
   
 Ultima modificacion: 12.04.2018
-
-@Autor: Daniel Francis. 12-10863
-
 
 Propuesto en el Stallings - Operating Systems. Capitulo 5.6
 
